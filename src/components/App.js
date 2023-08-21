@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Title> HELLO WORLD!!! </Title>
+        <Title> CI/CD?? IT WORKS!!! </Title>
       </div>
     );
   }
