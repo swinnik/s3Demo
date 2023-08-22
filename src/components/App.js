@@ -4,7 +4,7 @@ import Title from "./Title";
 const App = () => {
   return (
     <div>
-      <Title> Now We're Moovin' AND Groovin' </Title>
+      <Title> Now We're Moovin' AND Groovin' AND SCHMOOZIN' </Title>
     </div>
   );
 };
